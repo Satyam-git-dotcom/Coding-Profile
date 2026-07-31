@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0274-h-index) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
