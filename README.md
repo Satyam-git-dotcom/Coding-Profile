@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0014-longest-common-prefix) |
+| [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0135-candy) |
 | [0274-h-index](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0274-h-index) |
 ## Sorting
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0135-candy) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
