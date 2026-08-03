@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0014-longest-common-prefix) |
 | [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
+| [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0274-h-index) |
@@ -52,16 +53,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0684-redundant-connection) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0684-redundant-connection) |
 ## Graph Theory
@@ -71,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
