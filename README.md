@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0014-longest-common-prefix) |
 | [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0274-h-index) |
 ## Sorting
 |  |
@@ -51,17 +52,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0684-redundant-connection) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0684-redundant-connection) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
