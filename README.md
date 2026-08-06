@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/1009-complement-of-base-10-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
