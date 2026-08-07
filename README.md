@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
 | [0684-redundant-connection](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
@@ -128,8 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
