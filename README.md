@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0036-valid-sudoku) |
 | [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
 | [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0135-candy) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0036-valid-sudoku) |
 | [3731-find-missing-elements](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
