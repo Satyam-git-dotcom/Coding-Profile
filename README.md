@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -51,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0151-reverse-words-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0135-candy) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0213-house-robber-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
