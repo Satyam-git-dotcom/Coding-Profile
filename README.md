@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0290-word-pattern) |
 | [3731-find-missing-elements](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0290-word-pattern) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
