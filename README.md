@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0289-game-of-life) |
 | [3731-find-missing-elements](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0289-game-of-life) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0289-game-of-life) |
 ## Bit Manipulation
 |  |
 | ------- |
