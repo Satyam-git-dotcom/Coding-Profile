@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0289-game-of-life) |
 | [3731-find-missing-elements](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3731-find-missing-elements) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0290-word-pattern) |
 | [3731-find-missing-elements](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Math
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
