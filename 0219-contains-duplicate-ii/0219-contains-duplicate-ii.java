@@ -3,7 +3,7 @@ class Solution {
         Map<Integer, Integer> numToIndexMap = new HashMap<>();
       
         for (int currentIndex = 0; currentIndex < nums.length; currentIndex++) {
-            int previousIndex = numToIndexMap.getOrDefault(nums[currentIndex], -1000000);
+            int previousIndex = numToIndexMap.getOrDefault(nums[currentIndex], -100000);
           
             if (currentIndex - previousIndex <= k) {
                 return true; 
