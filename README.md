@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0151-reverse-words-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
