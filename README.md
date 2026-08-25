@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0289-game-of-life) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0290-word-pattern) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
