@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0289-game-of-life) |
 | [1872-stone-game-viii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/1872-stone-game-viii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0289-game-of-life) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Depth-First Search
 |  |
 | ------- |
