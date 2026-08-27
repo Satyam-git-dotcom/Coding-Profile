@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0190-reverse-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
 |  |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/1872-stone-game-viii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
