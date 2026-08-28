@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [1872-stone-game-viii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/1872-stone-game-viii) |
 ## String
