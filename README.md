@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0172-factorial-trailing-zeroes) |
 | [1872-stone-game-viii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/1872-stone-game-viii) |
 ## String
 |  |
