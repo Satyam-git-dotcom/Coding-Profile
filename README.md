@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0149-max-points-on-a-line) |
 | [0198-house-robber](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0213-house-robber-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0290-word-pattern) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0172-factorial-trailing-zeroes) |
 | [1872-stone-game-viii](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/1872-stone-game-viii) |
 ## String
@@ -221,4 +224,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
