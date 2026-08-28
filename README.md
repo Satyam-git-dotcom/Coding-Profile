@@ -93,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0684-redundant-connection) |
 ## Union-Find
 |  |
@@ -171,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0257-binary-tree-paths) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Satyam-git-dotcom/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
